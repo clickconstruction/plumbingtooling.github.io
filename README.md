@@ -51,7 +51,8 @@ A standalone web application for creating professional test reports (hydrostatic
 - `index.html` - Main application HTML with form and report templates
 - `js/app-fixed.js` - Main JavaScript file with all application logic
 - `css/styles.css` - Custom styling for the application
-- `img/` - Directory containing logo (logo.svg) and favicon
+- `img/` - Directory containing the Click Plumbing letterhead logo (logo.svg, printed on reports)
+- `favicon.ico`, `icons/` - The app mark (the Tooling family's yellow tile): browser tab, iOS home screen, and the master SVG
 
 ### JavaScript Architecture
 
